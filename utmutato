@@ -67,3 +67,13 @@ list-style-position
 Kis animációk:
 transition
 
+box : fixed -> a képernyőhöz rögziti
+position : sticky -> követi a képernyőt, amíg megnem akad valahol
+display non -> még a helyét is eltünteti valaminek amin belül a parancsvan
+zinedexel az elsőbséget lehet megadni
+
+list style type : 
+
+animációk 
+ :hover -> ha valamit fölé visznek akkor aktiválódnak a parancsok alatta
+  transition -> változáés ideje
