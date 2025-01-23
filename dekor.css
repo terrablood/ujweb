@@ -1,3 +1,10 @@
 body{
     background-color: rgb(227, 198, 83);
 }
+header h1{
+    
+    color: brown;  
+}
+body h2{
+    font-size: 40pt;
+}
