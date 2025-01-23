@@ -1,68 +1,62 @@
+ALT+z a sortörés
+
 alap html-szerkezet: html, head, body (VSCode legenerálja)
-böngészőlap címe: title
-külső css fájl linkelése: link
-headingek: h1, h2, h3, h4, h5, h6
-bekezdések: p,
-felsorolások: ol, ul, li,
-táblázatok: table, thead, tbody, tr, td, th, ugyanitt cellák kiterjesztése (rowspan, colspan attribútumok)
-linkek: a, a href attribútum, a target="_blank" az új oldalra való megnyitáshoz
-képek (következő alkalommal tanuljuk): img, src és title attribútumok,
-egyebek: br (sortörés), hr (vízszintes vonal)
-saját elem készítéséhez div
-html5 (szemantikus) elemek: header, nav, main, aside, footer, article, section
-inline tagek: strong, b, em, i, span (ez utóbbi az "inline div", arra van, hogy saját magad alakítsd)
- 
+    böngészőlap címe: title
+    külső css fájl linkelése: link
+    headingek: h1, h2, h3, h4, h5, h6
+    bekezdések: p,
+    felsorolások: ol, ul, li,
+    táblázatok: table, thead, tbody, tr, td, th, ugyanitt cellák kiterjesztése (rowspan, colspan attribútumok)
+    linkek: a, a href attribútum, a target="_blank" az új oldalra való megnyitáshoz
+    képek (következő alkalommal tanuljuk): img, src és title attribútumok,
+    egyebek: br (sortörés), hr (vízszintes vonal)
+    saját elem készítéséhez div
+    html5 (szemantikus) elemek: header, nav, main, aside, footer, article, section
+    inline tagek: strong, b, em, i, span (ez utóbbi az "inline div", arra van, hogy saját magad alakítsd)
 SELECTOROK:
-tag alapján: body
-class alapján: .sajat_doboz
-id alapján #focim
-valamin belüli kijelölés: header h1, header>h1
-felsorolás: h1, h2, h3
-
+    tag alapján: body
+    class alapján: .sajat_doboz
+    id alapján #focim
+    valamin belüli kijelölés: header h1, header>h1
+    felsorolás: h1, h2, h3
 SZABÁLYOK:
-
-Háttér
-background-color
-background-image
-background-repeat
-opacity
-
+    Háttér
+    background-color
+    background-image
+    background-repeat
+    opacity
 Szöveg:
-color
-font-size
-font-family
-font-weight
-text-align
-line-height
-text-transform
-text-shadow
-text-decoration
-overflow
-
+    color
+    font-size
+    font-family
+    font-weight
+    text-align
+    line-height
+    text-transform
+    text-shadow
+    text-decoration
+    overflow
 box-model:
-width
-height
-margin
-border
-padding
-border-radius
-box-shadow
-
+    width
+    height
+    margin
+    border
+    padding
+    border-radius
+    box-shadow
 Elhelyezés:
-position
-top, right, bottom, left
-display
-z-index
-
+    position
+    top, right, bottom, left
+    display
+    z-index
 Színek: 
-név: red
-hex: #ff0000
-rgb: rgb(255, 0, 0)
-rgba: rgba(255, 0, 0, 0.5)
-
+    név: red
+    hex: #ff0000
+    rgb: rgb(255, 0, 0)
+    rgba: rgba(255, 0, 0, 0.5)
 Listák:
-list-style-type
-list-style-position
+    list-style-type
+    list-style-position
 
 Kis animációk:
 transition
